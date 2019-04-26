@@ -74,3 +74,4 @@ C:\Users\LEADS Training\Desktop\Tanvir\Hrm-Training\hrm-training\HRM\HRM\obj\Deb
 C:\Users\LEADS Training\Desktop\Tanvir\Hrm-Training\hrm-training\HRM\HRM\obj\Debug\HRM.Migrations.addsectionmig.resources
 C:\Users\LEADS Training\Desktop\Tanvir\Hrm-Training\hrm-training\HRM\HRM\obj\Debug\HRM.csprojResolveAssemblyReference.cache
 C:\Users\LEADS Training\Desktop\Tanvir\Hrm-Training\hrm-training\HRM\HRM\obj\Debug\HRM.Migrations.employeemig.resources
+C:\Users\LEADS Training\Desktop\Tanvir\Hrm-Training\hrm-training\HRM\HRM\obj\Debug\HRM.Migrations.addemployees.resources

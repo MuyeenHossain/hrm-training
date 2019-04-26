@@ -24,6 +24,24 @@ namespace HRM.Models
         [Display(Name = "Mother Name")]
         public String MotherName { get; set; }
 
+        [Display(Name = "Blood Group")]
+        public String BloodGroup { get; set; }
+
+        [Display(Name = "Address")]
+        public String Address { get; set; }
+
+        [Display(Name = "Division Name")]
+        public String DivisionName { get; set; }
+
+        [Display(Name = "Department Name")]
+        public String DeptName { get; set; }
+
+        [Display(Name = "Mobile Number")]
+        public String MobileNumber { get; set; }
+
+        [Display(Name = "Email")]
+        public String Email { get; set; }
+
         [Display(Name = "Nick Name")]
         public String NickName { get; set; }
 
